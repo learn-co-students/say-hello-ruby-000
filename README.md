@@ -12,7 +12,7 @@ Your goal is to build a method that says hello to people.
 
 ## Instructions
 
-The idea of this lab is to build a method called `say_hello`. This method should accept on argument, a persons name. It then should print `"Hello "` + the name. For instance:
+The idea of this lab is to build a method called `say_hello`. This method should accept an argument, a persons name. It then should print `"Hello "` + the name. For instance:
 
 ```ruby
 # I call on the method, say_hello, and give it the string "Gabriela" 
